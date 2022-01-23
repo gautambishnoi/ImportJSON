@@ -632,3 +632,4 @@ function getDataFromNamedSheet_(sheetName) {
   Logger.log(jsonText);
   return JSON.parse(jsonText);
 }
+
